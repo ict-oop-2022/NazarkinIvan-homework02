@@ -1,0 +1,21 @@
+# ninja log v5
+2	69	6863642404200177	googletest-prefix/src/googletest-stamp/googletest-mkdir	a24caae77a8ac0e
+2	69	6863642404200177	C:/Users/user/Desktop/homework-2/out/build/x64-Debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir	a24caae77a8ac0e
+69	3960	6863642443113884	googletest-prefix/src/googletest-stamp/googletest-download	daceea01e43207c2
+69	3960	6863642443113884	C:/Users/user/Desktop/homework-2/out/build/x64-Debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download	daceea01e43207c2
+3961	4141	0	googletest-prefix/src/googletest-stamp/googletest-update	2340a310e9ec5342
+3961	4141	0	C:/Users/user/Desktop/homework-2/out/build/x64-Debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update	2340a310e9ec5342
+4142	4198	6863642445494422	googletest-prefix/src/googletest-stamp/googletest-patch	81f1463ba2527449
+4142	4198	6863642445494422	C:/Users/user/Desktop/homework-2/out/build/x64-Debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch	81f1463ba2527449
+4198	4248	6863642446004535	googletest-prefix/src/googletest-stamp/googletest-configure	d4d404bfa70a901a
+4198	4248	6863642446004535	C:/Users/user/Desktop/homework-2/out/build/x64-Debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure	d4d404bfa70a901a
+4249	4301	6863642446524647	googletest-prefix/src/googletest-stamp/googletest-build	5aa4ca2ed0609f5a
+4249	4301	6863642446524647	C:/Users/user/Desktop/homework-2/out/build/x64-Debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build	5aa4ca2ed0609f5a
+4301	4353	6863642447034760	googletest-prefix/src/googletest-stamp/googletest-install	70921d13d8964ed
+4301	4353	6863642447034760	C:/Users/user/Desktop/homework-2/out/build/x64-Debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install	70921d13d8964ed
+4353	4406	6863642447584887	googletest-prefix/src/googletest-stamp/googletest-test	d9ac2ac7e0108b3e
+4353	4406	6863642447584887	C:/Users/user/Desktop/homework-2/out/build/x64-Debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test	d9ac2ac7e0108b3e
+4406	4492	6863642448435073	CMakeFiles/googletest-complete	e14448505841040b
+4406	4492	6863642448435073	googletest-prefix/src/googletest-stamp/googletest-done	e14448505841040b
+4406	4492	6863642448435073	C:/Users/user/Desktop/homework-2/out/build/x64-Debug/googletest-download/CMakeFiles/googletest-complete	e14448505841040b
+4406	4492	6863642448435073	C:/Users/user/Desktop/homework-2/out/build/x64-Debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-done	e14448505841040b
